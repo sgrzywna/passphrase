@@ -4,7 +4,7 @@ POC of random password generator implemented in go.
 
 The main reason to create the tool was a need for small handy tool that generates easy to remember, but hard to crack passwords.
 
-It has much common with [Diceware](https://en.wikipedia.org/wiki/Diceware) method.
+It has much common with [Diceware](https://en.wikipedia.org/wiki/Diceware) method. Inspired by similar tool I found [here](https://ipsec.pl/passphrase).
 
 To make things a little bit more interesting, pseudo random number generator uses `The Simple Discard Method` that I found in `NIST SP800-90` publication.
 
